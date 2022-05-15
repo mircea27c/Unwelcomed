@@ -12,3 +12,7 @@ Povestea: Se desfasoara in viitor, unele planete sunt deja colonizate de alti oa
 Stilul grafic: Varianta pe care am ales-o pentru a reusi sa creez modelele 3d si texturile lor de la 0 in intervalul de timp disponibil este o grafica low poly, stilizata, cu o schematica relativ simpla de culori ce se complementeaza bine.
 
 UI: Interfata Utilizatorului este un HUD(Heads Up Display) futurist care afiseaza doar informatiile si indicii necesari obiectivului. In acest fel, pe ecran vor fi mereu doar elementele ce contin informatii esentiale pentru jucator in contextul obiectivului pe care trebuie sa-l indeplineasca.
+
+Controale: Controalele se pot gasi in meniul start. Acestea nu vor aparea insa in gameplay decat in momente cheie in care un anumit buton este esential pentru completarea obiectivului. Ideea este favorizarea controalelor intuitive pentru un FPS, iar cele ce ar putea fi necunoscute vor aparea doar la nevoie.
+
+
