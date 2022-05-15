@@ -2,6 +2,8 @@ Unwelcomed
 
 Link video prezentare: https://www.youtube.com/watch?v=EwNWIhOjONQ&feature=youtu.be
 
+Instructiuni: Descarcati fisierul "Unwelcomed_Build" si deschideti SpaceAdventure.exe
+
 Jocul este un FIRST PERSON SHOOTER bazat pe poveste
 
 Gameplay loop: Intreaga continuitate a jocului are la baza un sistem modular de nivele si cutsceneuri. Astfel se pot adauga/elimita/reordona nivele si cutsceneuri fara a crea probleme pentru desfasurarea actiunii sau a altor nivele. Fiecare nivel are o functie ce-i permite sa se reseteze daca jucatorul moare. Astfel moartea jucatorului nu il va trimite cu mult inapoi. Pe parcursul acestor nivele vor fi intalniti inamici din ce in ce mai puternici si priceputi.
