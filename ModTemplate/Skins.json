@@ -1,0 +1,15 @@
+{
+    "instructions": [
+        {
+            "1": "Place all your textures in the Textures folder of this mod"
+        },
+        {
+            "2": "For each field, either set the name of the texture(with extension), or leave null for default"
+        }
+    ],
+    "default_player_skin": "gunTexture",
+    "default_enemy_skin": "gunTexture",
+    "default_weapon_skin": "gunTexture",
+    "default_ground_texture": "gunTexture",
+    "default_ground_grass_texture": "gunTexture"
+}

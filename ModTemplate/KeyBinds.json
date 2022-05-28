@@ -1,0 +1,12 @@
+{
+    "move_forward": null,
+    "move_backward": null,
+    "move_left": null,
+    "move_right": null,
+    "attack": null,
+    "aim": null,
+    "jump": "C",
+    "crouch": "C",
+    "sprint": "T",
+    "reload": null
+}

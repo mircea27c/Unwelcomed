@@ -1,0 +1,20 @@
+{
+    "playerWeapons": [
+        {
+            "title": "gun",
+            "damage": 15,
+            "rate_of_fire": 5,
+            "max_ammo": 30,
+            "shoot_sound_name": null,
+            "texture_name": "gunTexture"
+        },
+        {
+            "title": "spear",
+            "damage": 50,
+            "rate_of_fire": 1,
+            "max_ammo": 1,
+            "shoot_sound_name": null,
+            "texture_name": null
+        }
+    ]
+}
