@@ -1,0 +1,25 @@
+{
+    "playerWeapons": [
+        {
+            "title": "plasma blaster",
+            "damage": 30,
+            "rate_of_fire": 2,
+            "max_ammo": 10,
+            "texture_name": "blasterTex"
+        },
+        {
+            "title": "plasma cannon",
+            "damage": 50,
+            "rate_of_fire": 1,
+            "max_ammo": 1,
+            "texture_name": "cannonTex"
+        },
+        {
+            "title": "handgun",
+            "damage": 5,
+            "rate_of_fire": 10,
+            "max_ammo": 30,
+            "texture_name": "handgunTex"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+
+{
+    "move_forward": "UpArrow",
+    "move_backward": "DownArrow",
+    "move_left": "LeftArrow",
+    "move_right": "RightArrow",
+    "attack": "Mouse0",
+    "aim": "Mouse1",
+    "jump": "Return",
+    "crouch": "C",
+    "sprint": "LeftControl",
+    "reload": "E"
+}

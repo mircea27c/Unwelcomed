@@ -1,0 +1,15 @@
+{
+    "instructions": [
+        {
+            "1": "Place all your textures in the Textures folder of this mod (jpg and png supported)"
+        },
+        {
+            "2": "For each field, either set the name of the texture(with extension), or leave null for default"
+        }
+    ],
+    "default_player_skin": null,
+    "default_enemy_skin": null,
+    "default_weapon_skin": null,
+    "default_ground_texture": "terrain1",
+    "default_ground_grass_texture": "terrain2"
+}
