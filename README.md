@@ -1,3 +1,7 @@
+IMPORTANT:
+La crearea unui mod trebuie eliminate campurile ce contin "sound" in nume, altfel launcherul va afisa un warning iar fisierul va fi ignorat.
+
+
 Unwelcomed
 
 Link video prezentare: https://www.youtube.com/watch?v=EwNWIhOjONQ&feature=youtu.be
