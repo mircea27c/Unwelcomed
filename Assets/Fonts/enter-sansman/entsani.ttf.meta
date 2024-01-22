@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6aaf9108e78d681428b532829d73fc87
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Enter Sansman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6af255138c9775b43a862ffa2287c79e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8 @@
+.plastic/
+.vs/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
